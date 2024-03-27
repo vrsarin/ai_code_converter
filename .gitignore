@@ -1,0 +1,9 @@
+**/.venv
+**/.archive
+**/.vscode
+**/*.ipynb
+**/.temp
+**/__pycache__
+**/samples
+**/.examples
+**/.output
